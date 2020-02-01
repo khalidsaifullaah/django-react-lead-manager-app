@@ -13,3 +13,5 @@ npm run dev
 
 # Build for production
 npm run build
+
+# Live version can be found here- https://django-react-lead-manager-app.herokuapp.com/
