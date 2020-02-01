@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The things you need to install to be able to run it on your machine
 
 ```
 # Install dependencies
@@ -26,8 +26,6 @@ npm run build
 ```
 
 *Live version can be found here-* - [Lead Managers App](https://django-react-lead-manager-app.herokuapp.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
 ## Acknowledgments
