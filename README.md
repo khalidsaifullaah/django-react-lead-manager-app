@@ -1,5 +1,7 @@
 # django-react-lead-manager-app
+Full stack Django/React/Redux app that uses token based authentication with Knox.
 
+Quick Start
 # Install dependencies
 npm install
 
